@@ -1,5 +1,5 @@
 # infinity scroll 
-[<img src="assets/img.png" width="400" height='500'>](https://ehdgodgka.github.io/infinity-scroll/)
+[<img src="assets/img.png" width="400" height='500'>](https://ehdgodgka.github.io/js20-infinity-scroll/)
 <img src="assets/img-mobile.png" width="150">
 
 - Built with HTML, CSS and Javascript.
@@ -18,4 +18,4 @@ https://academy.zerotomastery.io/p/javascript-projects
 - loading
 - responsive screen
 ---
-[-> go to live server](https://ehdgodgka.github.io/infinity-scroll/)
+[-> go to live server](https://ehdgodgka.github.io/js20-infinity-scroll/)
